@@ -1,1 +1,3 @@
-This is important article -: [](https://www.geeksforgeeks.org/javascript/what-is-an-event-loop-in-javascript/)
+This is important article -: [Event Loop](https://www.geeksforgeeks.org/javascript/what-is-an-event-loop-in-javascript/)  
+[Promises](https://www.geeksforgeeks.org/javascript/javascript-promise-chaining/)
+
