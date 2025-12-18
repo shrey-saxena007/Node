@@ -32,7 +32,11 @@
 
 4. type node index.js to run the file
 
-   
+---
+
+NodeJS REPL (Read-Eval-Print Loop) is an interactive shell that allows you to execute JavaScript code line-by-line and see immediate results. This tool is extremely useful for quick testing, debugging, and learning, providing a sandbox where you can experiment with JavaScript code in a NodeJS environment.
+
+
 
 
 
