@@ -15,6 +15,11 @@ NodeJS provides a set of global objects that are available in every module. Thes
 
 ---
 
+If you're building a NodeJS application and want to automatically restart the server whenever you make changes to your code, Nodemon is a great tool for that. It saves you time by eliminating the need to manually restart the server each time you update your code.
+
+---
+
+See this article for session tracking-: [Session Tracking](https://www.geeksforgeeks.org/node-js/how-to-use-session-variable-with-node-js/)
 
 
 
