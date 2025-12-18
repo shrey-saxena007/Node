@@ -48,5 +48,10 @@ NodeJS REPL (Read-Eval-Print Loop) is an interactive shell that allows you to ex
 const package = require('package-name');`
 - Custom Modules: Custom modules are user-defined modules created by developers to encapsulate reusable code. Developers can create custom modules by defining functions, objects, or classes in separate files and exporting them using the module.exports or exports object.
 
+---
+
+NodeJs has 2 functions readFile() and readFileSync(). first one is asynchronous and another is synchronous. So here also callback ans other stuff is used
+
+---
 
 
