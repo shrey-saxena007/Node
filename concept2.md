@@ -41,7 +41,7 @@ NodeJS REPL (Read-Eval-Print Loop) is an interactive shell that allows you to ex
 ---
 
 ### Types of Modules:
-- Core Modules: Core modules are built-in modules provided by NodeJS. They offer essential functionalities such as file system operations (fs), HTTP server (http), and utilities (util). Core modules can be accessed using the require() function without specifying a path. So the modues are-: fs(File System), http and https, events, path, util, os(operating system), crypto(cryptography)
+- Core Modules: Core modules are built-in modules provided by NodeJS. They offer essential functionalities such as file system operations (fs), HTTP server (http), and utilities (util). Core modules can be accessed using the require() function without specifying a path. So the modues are-: fs(File System), http and https, events, path, util, os(operating system), crypto(cryptography)  
 `const fs = require('fs');`
 - Third-Party Modules: Third-party modules are created by the NodeJS community or external developers and are hosted on package registries like npm (Node Package Manager). Developers can install third-party modules using npm and include them in their applications using require().
 npm install package-name
